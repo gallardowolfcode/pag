@@ -15,12 +15,6 @@ django-admin startapp blog
 
 # GLOSARIO
 
-# Digital-Window
-
-## Description
-Frontend Digital-Window
-
-## Requirements and documentation
 
 - [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [HTML](https://devdocs.io/html/)
