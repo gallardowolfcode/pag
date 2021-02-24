@@ -1,5 +1,5 @@
-###ACTIVAR ENT VIRTUAL
-##crear proyecto 
+#ACTIVAR ENT VIRTUAL
+#crear proyecto 
 python3 -m venv venv
 ./venv/Scripts/activate
 pip install Django
@@ -13,4 +13,4 @@ python manage.py make migrations
 python manage.py createsuperuser
 django-admin startapp blog
 
-###GLOSARIO###
+#GLOSARIO
